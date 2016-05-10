@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\phgm\documents\ufrpe\visao\exercices\main.cpp(34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\phgm\documents\ufrpe\visao\exercices\main.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Exercices.vcxproj -> C:\Users\phgm\Documents\UFRPE\Visao\Exercices\x64\Debug\Exercices.exe
